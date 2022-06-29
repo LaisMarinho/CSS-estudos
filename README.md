@@ -7,7 +7,7 @@ CSS: Cascading style Sheet
 
 É uma linguagem de estilos.
 Ela serve para estilizar os elementos de uma página "WEB" ou "APLICATIVO MOBILE".
-É como se fosse o designer( a maquiagem/roupa que dá todo o estilo visual) do corpo da página com o HTML.
+É como se fosse o designer(a maquiagem/roupa que dá todo o estilo visual) do corpo da página com o HTML.
 
 SINTAXE CSS:
 
